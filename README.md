@@ -1,2 +1,1 @@
-# t4-wiki
-Wiki for T4 Information
+# Thymatron System 4 Wiki
